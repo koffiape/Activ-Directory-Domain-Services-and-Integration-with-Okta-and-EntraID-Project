@@ -1,4 +1,3 @@
-# Active-Directory-Domain-Services-and-Integration-with-Okta-and-EntraID-Project
 
 <h1>Active Directory Domain Services and Integration with Okta and Entra ID - Home Project</h1>
 
