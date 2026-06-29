@@ -127,7 +127,7 @@ Create and Configure Windows 10 and Join to AD DS: <br/>
   <p align="center">
 <img src="https://imgur.com/vdxDQ1n.png" height="80%" width="80%" alt="Configuring cloud sync"/>  
 <img src="https://imgur.com/5BQX1al.png" height="80%" width="80%" alt="Cloud Sync Configuration"/>
-<img src="https://imgur.com/ywfd9ow.png" height="80%" width="80%" alt="Cloud Sync successful"/>
+<img src="https://imgur.com/JLAaYm1.png" height="80%" width="80%" alt="Cloud Sync successful"/> 
 
 <h2>Conclusion:</h2>
 This project demonstrated my ability to design and implement a robust Identity and Access Management (IAM) solution by combining on-premises infrastructure with cloud-based services. By building a fully functional lab environment, I reinforced my hands-on experience in configuring Active Directory, deploying critical network services, managing large-scale user and group structures, enforcing group policies, and integrating with modern cloud platforms like Okta and Microsoft Entra ID. The successful synchronization of identities between on-premises and cloud environments highlights my expertise in hybrid identity management, showcasing skills essential for securing and streamlining enterprise-level IAM operations.
