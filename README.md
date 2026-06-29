@@ -91,7 +91,8 @@ Create and Configure Windows 10 and Join to AD DS: <br/>
 - <b>Download OktaADAgent and Install on AD DS Server </b>
 
 <img src="https://imgur.com/nnUSSW4.png" height="80%" width="80%" alt="After Installing OktaADAgent on AD DS Server"/> 
-<img src="https://imgur.com/3pMnuxR.png" height="80%" width="80%" alt="Configuration of OU to Okta"/>
+
+<img src="https://imgur.com/7b6c5mw.png" height="80%" width="80%" alt="Configuration of OU to Okta"/> 
 <img src="https://imgur.com/VkLEftd.png" height="80%" width="80%" alt="Configuration of AD Agent Complete"/>
 <img src="https://imgur.com/jhE0mFf.png" height="80%" width="80%" alt="AD Integration with Okta Complete"/>
 <img src="https://imgur.com/m0Rz6Jr.png" height="80%" width="80%" alt="Verification of Integration Complete. Okta Service Account has been created on AD DS"/>
