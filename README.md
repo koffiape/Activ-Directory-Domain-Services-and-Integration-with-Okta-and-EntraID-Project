@@ -76,9 +76,10 @@ Create 1000 AD Users using Create_AD_Users.ps PowerShell script
 <p align="center">
 Create and Configure Windows 10 and Join to AD DS: <br/>
 <img src="https://imgur.com/jkOPeN6.png" height="80%" width="80%" alt="VM Network Adapter Configuration"/>
-<img src="https://imgur.com/Icjxejo.png" height="80%" width="80%" alt="Windows IP Configuration"/>
+<img src="https://imgur.com/Icjxejo.png" height="80%" width="80%" alt="Windows IP Configuration"/> 
 <img src="https://imgur.com/CwDt4O4.png" height="80%" width="80%" alt="Join Client 1 machine to mydomain.com"/>
 <img src="https://imgur.com/9inlZWw.png" height="80%" width="80%" alt="Verification Client 1 successful joined to AD DS"/>
+<img src="https://imgur.com/3SGz9Cr.png" height="80%" width="80%" alt="Verification Client 1 and 1 successful joined to AD DS"/>
 
 <br />
 <br />
