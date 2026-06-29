@@ -125,7 +125,7 @@ Create and Configure Windows 10 and Join to AD DS: <br/>
 <p align="center">
 <h2>Cloud Sync of Active Directory Domain Services</h2>
   <p align="center">
-<img src="https://imgur.com/vdxDQ1n.png" height="80%" width="80%" alt="Configuring cloud sync"/>  
+<img src="https://imgur.com/5Y22sCa.png" height="80%" width="80%" alt="Configuring cloud sync"/>  
 <img src="https://imgur.com/J1ToUKG.png" height="80%" width="80%" alt="Cloud Sync Configuration"/> 
 <img src="https://imgur.com/JLAaYm1.png" height="80%" width="80%" alt="Cloud Sync successful"/> 
 
