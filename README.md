@@ -119,7 +119,7 @@ Create and Configure Windows 10 and Join to AD DS: <br/>
 <p align="center">
 <h2>Verification</h2>
 <p align="center">
-<img src="https://imgur.com/J9aWQeN.png" height="80%" width="80%" alt="Verfication of agent"/>
+<img src="https://imgur.com/oC9KnN8.png" height="80%" width="80%" alt="Verfication of agent"/>
 <img src="https://imgur.com/LmbnYj8.png" height="80%" width="80%" alt="Verification of Azure AD connector"/>
 
 <p align="center">
