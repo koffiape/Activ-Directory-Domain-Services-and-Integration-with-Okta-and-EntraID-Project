@@ -85,7 +85,7 @@ Create and Configure Windows 10 and Join to AD DS: <br/>
 <h2>Active Directory Integration with Okta:</h2>
 <p align="center">
 
-<img src="https://imgur.com/xaW2mH2.png" height="80%" width="80%" alt="Active Directory Integration with Okta"/>
+<img src="https://imgur.com/IncxQmX.png" height="80%" width="80%" alt="Active Directory Integration with Okta"/>  
 
  <p align="center">
 - <b>Download OktaADAgent and Install on AD DS Server </b>
