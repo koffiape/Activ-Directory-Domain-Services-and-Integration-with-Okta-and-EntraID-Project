@@ -114,7 +114,7 @@ Create and Configure Windows 10 and Join to AD DS: <br/>
 <img src="https://imgur.com/P08bnMJ.png" height="80%" width="80%" alt="Configuring Service Account"/> 
 <img src="https://imgur.com/Wx20NEZ.png" height="80%" width="80%" alt="Connecting Active Directory"/>
 <img src="https://imgur.com/LCiJ6Mh.png" height="80%" width="80%" alt="Configuration of the Agent"/> 
-<img src="https://imgur.com/uq3pUwz.png" height="80%" width="80%" alt="Configuration of the Agent"/>
+<img src="https://imgur.com/ZjkwIJl.png" height="80%" width="80%" alt="Configuration of the Agent"/>
 <img src="https://imgur.com/QXv6VzW.png" height="80%" width="80%" alt="Agent Configuration Complete"/>
 
 <p align="center">
